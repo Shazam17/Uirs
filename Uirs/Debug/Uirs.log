@@ -1,0 +1,29 @@
+﻿Uirs.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Uirs.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Uirs.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+Uirs.obj : error LNK2001: unresolved external symbol ___glewBufferData
+Uirs.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+Uirs.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+Uirs.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+Uirs.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+Uirs.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+Uirs.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+Uirs.obj : error LNK2001: unresolved external symbol ___glewGetProgramInfoLog
+Uirs.obj : error LNK2001: unresolved external symbol ___glewGetProgramiv
+Uirs.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+Uirs.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+Uirs.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+Uirs.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+Uirs.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+Uirs.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+Uirs.obj : error LNK2001: unresolved external symbol ___glewCreateBuffers
+C:\Users\JohnPower\source\repos\Uirs\libs\assimp-vc140-mt.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\JohnPower\source\repos\Uirs\libs\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\JohnPower\source\repos\Uirs\libs\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\JohnPower\source\repos\Uirs\Debug\Uirs.exe : fatal error LNK1120: 25 unresolved externals
